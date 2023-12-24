@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**moveonwasd/moveonwasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hii 👋👋👋
 
-Here are some ideas to get you started:
+#### lil' fax about me:
+- dreaming of getting into gamedev since 2018 🏏
+- rarely finish my projects (adhd moment) 🤯
+- I absolutely love [rust programming language](https://github.com/rust-lang/rust) 🦀
+- and [godot game engine](https://github.com/godotengine/godot) 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### things I work on rn:
+- [ ] filling this section (I got some plans)
+
+#### reach me (please don't):
+- [email](moveonwasd@outlook.com) 📫
+- [telegram](t.me/moveonwasd) 💬
