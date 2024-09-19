@@ -11,5 +11,4 @@
 - [ ] filling this section (I got some plans)
 
 #### reach me (please don't):
-- [email](moveonwasd@outlook.com) 📫
 - [telegram](t.me/moveonwasd) 💬
